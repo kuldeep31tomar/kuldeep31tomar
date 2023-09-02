@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kuldeep31tomar
-- 👀 I’m interested in frontend development
+- 👋 Hi, I’m Kuldeep Singh Tomar
+- 👀 I’m interested in frontend development.
 - 🌱 I’m currently learning Next.JS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on one some open source frontend projects.
 - 📫 How to reach me: kuldeep.3197@gmail.com
 
 <!---
