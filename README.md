@@ -2,7 +2,7 @@
 - 👀 I’m interested in frontend development.
 - 🌱 I’m currently learning Next.JS
 - 💞️ I’m looking to collaborate on one some open source frontend projects.
-- 📫 You can reach me here: kuldeep.3197@gmail.com
+- 📫 You can reach me via: kuldeep.3197@gmail.com
 
 <!---
 kuldeep31tomar/kuldeep31tomar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
